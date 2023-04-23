@@ -125,3 +125,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Мои файлы 
+node_modules/
+components/Const.js
+components/FirstComent.js
+components/SecondComent.js
+components/InputDOM.js
+components/NavigatorDOM.js
+
+index.js
